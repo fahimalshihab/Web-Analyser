@@ -28,3 +28,10 @@
   <li>Session hijacking: In this type of attack, the attacker can steal a user's session information, such as session cookies, by intercepting and modifying network traffic.</li>
 </ul>
 <p>ARP spoofing attacks can be prevented by using techniques such as port security, static ARP entries, and ARP spoofing detection software. It is important to use these techniques to protect your network and prevent unauthorized access and data theft.</p>
+
+![1](https://user-images.githubusercontent.com/97816146/232338478-0a4f5296-b7d4-4f59-9c8d-10a18dcecdc0.png)
+![2](https://user-images.githubusercontent.com/97816146/232338512-f1ba0d4f-dc8c-4809-a3af-f6357c36cf40.png)
+![3](https://user-images.githubusercontent.com/97816146/232338518-90167731-039e-4725-ae41-7ae7b5ceb578.png)
+![4](https://user-images.githubusercontent.com/97816146/232338519-e33743f9-0a02-4789-b7fe-c45dfbb8e129.png)
+![5](https://user-images.githubusercontent.com/97816146/232338520-fa4c921c-a51c-4172-941f-7326f9f6beb6.png)
+![6](https://user-images.githubusercontent.com/97816146/232338522-05f2ef35-a3f0-41e8-a16e-0c6e143840bb.png)
